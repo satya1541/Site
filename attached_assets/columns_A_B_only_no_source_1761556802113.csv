@@ -1,0 +1,57 @@
+Name,URL
+B2B Production Frontend,https://aps.24x7healthcare.live/
+(Moambulance Hospital),https://aps.24x7healthcare.live/
+(Cure Bay),https://aps.24x7healthcare.live/
+(CommandCenter),"https://aps.24x7healthcare.live/login
+"
+(Admin),"https://aps.24x7healthcare.live/login
+"
+(Field Employee),https://aps.24x7healthcare.live/hospitalManager/loginhttps://aps.24x7healthcare.live/hospitalManager/login
+B2C Production Frontend,https://ambulance.apslive.in/login
+APS Production Backend,https://apsprob.24x7healthcare.live/
+APS Frontend Production,https://aps.24x7healthcare.live/
+Testing Server Url,
+APS Backend 1st Prototype,https://apsbackend.24x7healthcare.live/
+Test APS Backend,https://testapsb.24x7healthcare.live/
+Test APS Hospital Frontend,https://testapsf.24x7healthcare.live/hospital/login
+Test Hospital manager frontend,https://testapsf.24x7healthcare.live/hospitalManager/login
+Admin And Command Center Test Frontend,https://testapsf.24x7healthcare.live/login
+DATABASE,DATABASE
+APS DB ,https://db.apslive.in/
+Clino other  Project DB (Pro),https://db1.moambulance.in/phpmyadmin/
+Development DB,https://db.24x7healthcare.live/phpmyadmin/
+ERS,
+ERS Pro Backend,https://ers.smartambulance.in/
+AmTek,
+AmTek Frontend (SAMS) Pro  (Admin login),https://sams.smartambulance.in/
+JSPL,https://sams.smartambulance.in/
+AmTek Backend Pro Sensor Data,https://smartambulance.in/
+AmTek ( SAMS) Backend Admin Reg & Login Pro,https://samsapi.smartambulance.in/
+AmTek Vital Data Backend (KodeBlue),https://kb.smartambulance.in/
+AmTek Camera Backend,https://camera.smartambulance.in/stream?ambulanceId=E05A1BD173D8
+OTA,
+other sensors except amtek,https://ota.smartambulance.in/otaFile
+AMteK Sensor OTA,https://smartambulance.in/otaFile
+MQTT Broker,
+APS,"devlop_broker_url = 18.61.46.152 #Replace with your MQTT broker's URL
+devlop_broker_port = 1883 #Replace with your MQTT broker's port
+"
+Other except APS(# Mqtt Production Broker),"
+broker_url = 98.130.28.156 #Replace with your MQTT broker's URL
+broker_port = 1883 #Replace with your MQTT broker's port
+"
+Hostinger/Development(# # Mqtt DevlopMent Broker),"
+# devlop_broker_url = 46.28.44.138 #Replace with your MQTT broker's URL
+# devlop_broker_port = 1883 #Replace with your MQTT broker's port
+"
+ERS Error log ,https://ers.smartambulance.in/logs
+,
+HAMS       (Hospital Moambulance),https://hams.moambulance.in/#/login
+                 (admin),https://hams.moambulance.in/#/admin/login
+                 (GMR),https://hams.moambulance.in/#/login
+Razor Pay Dashboard Credential:,https://accounts.razorpay.com/auth/?redirecturl=https%3A%2F%2Fdashboard.razorpay.com&auth_intent=login&x-country-code=IN
+Shree Tripada (Bulk SMS):,https://sms.shreetripada.com/ 
+PingConnect (DLT SMS):,https://smartping.live/entity/login
+GitLab:,https://gitlab.com/users/sign_in/
+Zoho Mail:,https://www.zoho.com/mail/login.html
+Slack,https://slack.com/intl/en-in/get-started?cdn_fallback=1#/createnew
